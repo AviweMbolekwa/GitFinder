@@ -6,7 +6,7 @@ GitFinder is a web application where a user may use a specific github username t
 Client: HTML, CSS, JavaScript, API
 
 # Live website
-https://gitfound.netlify.app/gitfinder/
+https://gitfound.netlify.app
 
 # Run Locally
 Clone the project
