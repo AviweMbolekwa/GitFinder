@@ -1134,7 +1134,7 @@
    * responsive for larger than 1080px screen
    */
   
-  @media (min-width: 1080px) {
+  @media (min-width: 1024px) {
   
     /**
      * TAB
