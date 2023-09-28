@@ -28,10 +28,10 @@
     /* Dark colors */
     --background-dark: hsl(220, 40%, 13%);
     --on-background-dark: hsl(0, 0%, 100%);
-    --primary-dark:#0042AA;
-    --primary-hover-dark: #0042AA;
-    --primary-outline-dark: #0042AA;
-    --primary-outline-hover-dark: #0042AA;
+    --primary-dark: hsl(212, 100%, 50%);
+    --primary-hover-dark: hsl(212, 100%, 45%);
+    --primary-outline-dark: hsl(212, 100%, 46%);
+    --primary-outline-hover-dark: hsl(212, 100%, 55%);
     --surface-dark: hsl(222, 41%, 17%);
     --on-surface-dark: hsl(223, 23%, 61%);
     --on-surface-2-dark: hsl(222, 16%, 72%);
@@ -55,13 +55,14 @@
     --alpha-5-dark: hsla(0, 0%, 100%, 0.05);
     --overlay-bg-dark: hsla(220, 40%, 7%, 0.5);
   
-    /* Light colors */
+    /*-------had to change colors to dark for contrast test---*/
+    /* Light colors */ 
     --background-light: hsl(0, 0%, 100%);
     --on-background-light: hsl(220, 40%, 13%);
-    --primary-light: hsl(212, 100%, 50%);
-    --primary-hover-light: hsl(212, 100%, 45%);
-    --primary-outline-light: hsl(212, 100%, 46%);
-    --primary-outline-hover-light: hsl(212, 100%, 40%);
+    --primary-light: hsl(212, 71%, 19%);
+    --primary-hover-light: hsl(212, 71%, 19%);
+    --primary-outline-light: hsl(212, 71%, 19%);
+    --primary-outline-hover-light: hsl(212, 71%, 19%);
     --surface-light: hsl(223, 100%, 96%);
     --on-surface-light: hsl(222, 11%, 40%);
     --on-surface-2-light: hsl(222, 11%, 36%);
