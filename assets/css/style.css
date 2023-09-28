@@ -28,10 +28,10 @@
     /* Dark colors */
     --background-dark: hsl(220, 40%, 13%);
     --on-background-dark: hsl(0, 0%, 100%);
-    --primary-dark: hsl(212, 100%, 50%);
-    --primary-hover-dark: hsl(212, 100%, 45%);
-    --primary-outline-dark: hsl(212, 100%, 46%);
-    --primary-outline-hover-dark: hsl(212, 100%, 55%);
+    --primary-dark:#0042AA;
+    --primary-hover-dark: #0042AA;
+    --primary-outline-dark: #0042AA;
+    --primary-outline-hover-dark: #0042AA;
     --surface-dark: hsl(222, 41%, 17%);
     --on-surface-dark: hsl(223, 23%, 61%);
     --on-surface-2-dark: hsl(222, 16%, 72%);
