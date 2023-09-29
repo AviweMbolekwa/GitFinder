@@ -1,8 +1,8 @@
 # GitFinder
  
 ## Frontend Mentor: Github User Search App
+![mockup](https://github.com/AviweMbolekwa/GitFinder/tree/main/assets/readme/mockup.jpg)
 
-(https://github.com/AviweMbolekwa/GitFinder/tree/main/assets/readme/mockup.jpg)
 # Live website
 https://gitfound.netlify.app
 
