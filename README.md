@@ -1,10 +1,8 @@
 # GitFinder
  
-GitFinder is a web application where a user may use a specific github username to search for a certain github account and obtain      access to an overview of that specific github account.
+## Frontend Mentor: Github User Search App
 
-# Tech Stack
-Client: HTML, CSS, JavaScript, API
-
+(https://github.com/AviweMbolekwa/GitFinder/tree/main/assets/readme/mockup.jpg)
 # Live website
 https://gitfound.netlify.app
 
