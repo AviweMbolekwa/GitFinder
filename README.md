@@ -12,20 +12,16 @@
 
 # Table of contents
 
-- [User experience](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#user-experience)
-   - [User stories](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#user-stories)
-- [Technologies used](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#technologies-used)
-   - [Languages used](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#languages-used)
-   - [Framework Libraries and programs](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project)
-   - [Application Programming Interface (API's)](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project)
-- [Testing](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project)
-- [Deployment](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project)
-   - [Github Pages](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project)
-   - [Forking the GitHub Repository](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project)
-   - [Making a local clone](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project)
-- [Credits](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project)
-   - [Code](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project)
-   - [Acknowledgements](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project)
+- [User experience](https://github.com/AviweMbolekwa/GitFinder#user-experience)
+   - [User stories](https://github.com/AviweMbolekwa/GitFinder#user-stories)
+- [Technologies used](https://github.com/AviweMbolekwa/GitFinder#technologies-used)
+   - [Languages used](https://github.com/AviweMbolekwa/GitFinder#languages-used)
+   - [Framework Libraries and programs](https://github.com/AviweMbolekwa/GitFinder#framework-libraries-and-programs)
+   - [Application Programming Interface (API's)](https://github.com/AviweMbolekwa/GitFinder#application-programming-interface)
+- [Testing](https://github.com/AviweMbolekwa/GitFinder#testing)
+- [Credits](https://github.com/AviweMbolekwa/GitFinder#credits)
+   - [Code](https://github.com/AviweMbolekwa/GitFinder#code)
+   - [Acknowledgements](https://github.com/AviweMbolekwa/GitFinder#acknowledgements)
  
 # User experience
 
