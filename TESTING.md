@@ -1,14 +1,14 @@
 The GitFinder website was tested using the following methods:
 
-- [Code Validation](https://github.com/AviweMbolekwa/GitFinder#code-validation)
-  - [W3C HTML Validator](https://github.com/AviweMbolekwa/GitFinder#w3c-html-validator)
-- [Lighthouse](https://github.com/AviweMbolekwa/GitFinder#lighthouse)
-- [A11y Color Contrast Accessibility Checker](https://github.com/AviweMbolekwa/GitFinder#a11y-color-contrast-accessibility-checker)
-- [Browser Compatibility](https://github.com/AviweMbolekwa/GitFinder#browser-compatibility)
-- [Responsiveness](https://github.com/AviweMbolekwa/GitFinder#responsiveness)
-- [Peer review](https://github.com/AviweMbolekwa/GitFinder#peer-review)
-- [Bugs](https://github.com/AviweMbolekwa/GitFinder#bugs)
-  - [Unresolved Bugs](https://github.com/AviweMbolekwa/GitFinder#unresolved-bugs)
+- [Code Validation](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md#code-validation)
+  - [W3C HTML Validator](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md#w3c-html-validator)
+- [Lighthouse](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md#lighthouse)
+- [A11y Color Contrast Accessibility Checker](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md#a11y-color-contrast-accessibility-checker)
+- [Browser Compatibility](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md#browser-compatibility)
+- [Responsiveness](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md#responsiveness)
+- [Peer review](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md#peer-review)
+- [Bugs](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md#bugs)
+  - [Unresolved Bugs](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md#unresolved-bugs)
  
 # Code Validation
 
