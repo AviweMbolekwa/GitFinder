@@ -57,7 +57,7 @@
    - GitHub Users API was used to pull users profile data.
  
 # Testing
-- Please refer [here](https://github.com/AviweMbolekwa/GitFinder/TESTING.md) for more information on testing of the GitFinder website.
+- Please refer [here](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md) for more information on testing of the GitFinder website.
 
 # Credits
 
