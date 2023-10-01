@@ -17,7 +17,7 @@
 - [Technologies used](https://github.com/AviweMbolekwa/GitFinder#technologies-used)
    - [Languages used](https://github.com/AviweMbolekwa/GitFinder#languages-used)
    - [Framework Libraries and programs](https://github.com/AviweMbolekwa/GitFinder#framework-libraries-and-programs)
-   - [Application Programming Interface (API's)](https://github.com/AviweMbolekwa/GitFinder#application-programming-interface)
+   - [Application Programming Interface (API's)](https://github.com/AviweMbolekwa/GitFinder#application-programming-interface-apis)
 - [Testing](https://github.com/AviweMbolekwa/GitFinder#testing)
 - [Credits](https://github.com/AviweMbolekwa/GitFinder#credits)
    - [Code](https://github.com/AviweMbolekwa/GitFinder#code)
@@ -57,7 +57,7 @@
    - GitHub Users API was used to pull users profile data.
  
 # Testing
-- Please refer [here](https://github.com/AviweMbolekwa/GitFinder/edit/main/README.md#live-project) for more information on testing of the GitFinder website.
+- Please refer [here](https://github.com/AviweMbolekwa/GitFinder/TESTING.md) for more information on testing of the GitFinder website.
 
 # Credits
 
