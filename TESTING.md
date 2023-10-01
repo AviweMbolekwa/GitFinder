@@ -8,7 +8,6 @@ The GitFinder website was tested using the following methods:
 - [Browser Compatibility]()
 - [Peer review]()
 - [Bugs]()
-  - [Resolved Bugs]()
   - [Unresolved Bugs]()
  
 # Code Validation
@@ -49,19 +48,25 @@ Appearance, functionality and responsiveness were largely consistent across brow
 
 Responsivity tests were carried out using Google Chrome DevTools. Device screen sizes covered include:
 
-iPhone SE
-iPhone XR
-iPhone 12 Pro
-Pixel 5
-Samsung Galaxy S8+
-Samsung Galaxy S20 Ultra
-iPad Mini
-iPad Air
-Surface Pro 7
-Surface Duo
-Galaxy Fold
-Samsung Galaxy A51/71
-Nest Hub
-Nest Hub Max
+- iPhone SE
+- iPhone XR
+- iPhone 12 Pro
+- Pixel 5
+- Samsung Galaxy S8+
+- Samsung Galaxy S20 Ultra
+- iPad Mini
+- iPad Air
+- Surface Pro 7
+- Surface Duo
+- Galaxy Fold
+- Samsung Galaxy A51/71
+- Nest Hub
+- Nest Hub Max
+  
 I also personally tested the website on iPhone 12 pro, iPhone 11, iPad Pro 2nd Generation, and Macbook Air.
+
+# Unresolved Bugs
+- Lighthouse
+  - There are suggestions from Lighthouse that I could follow to improve performance of my page load time.
+  - There are suggestions from Lighthouse that I could follow to improve Best Practices of my page.
 
