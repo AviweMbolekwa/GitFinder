@@ -1,13 +1,13 @@
 The GitFinder website was tested using the following methods:
 
 - [Code Validation]()
-  - W3C HTML Validator()
+  - [W3C HTML Validator]()
 - [Lighthouse]()
 - [Responsiveness]()
 - [A11y Color Contrast Accessibility Checker]()
 - [Browser Compatibility]()
-- [Peer review]
-- [Bugs]
+- [Peer review]()
+- [Bugs]()
   - [Resolved Bugs]()
   - [Unresolved Bugs]()
  
