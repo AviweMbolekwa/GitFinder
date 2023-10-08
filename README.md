@@ -10,6 +10,7 @@
 ## Live Project
 [View the live project](https://gitfound.netlify.app)
 
+---
 # Table of contents
 
 - [User experience](https://github.com/AviweMbolekwa/GitFinder#user-experience)
@@ -23,6 +24,8 @@
    - [Code](https://github.com/AviweMbolekwa/GitFinder#code)
    - [Acknowledgements](https://github.com/AviweMbolekwa/GitFinder#acknowledgements)
  
+---
+ 
 # User experience
 
 ## User stories
@@ -31,7 +34,8 @@
 - As a user, I want to switch between light and dark themes for the app.
 - As a user, I want the app to adjust its layout based on my device's screen size.
 - As a user, I want the app to handle errors gracefully.
-   
+
+---
 
 # Technologies used
 
@@ -55,10 +59,12 @@
 ## Application Programming Interface (API's)
 - GitHub Users API
    - GitHub Users API was used to pull users profile data.
- 
+
+---
 # Testing
 - Please refer [here](https://github.com/AviweMbolekwa/GitFinder/blob/main/TESTING.md) for more information on testing of the GitFinder website.
 
+---
 # Credits
 
 ## Code 
